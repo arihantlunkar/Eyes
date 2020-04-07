@@ -1,0 +1,13 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="hexcolors_yellow">#ffd454</color>
+    <color name="hexcolors_darkyellow">#ffc354</color>
+    <color name="hexcolors_darkgreen">#006400</color>
+    <color name="color_green">#99CC00</color>
+    <color name="color_black">#000000</color>
+    <color name="color_white">#FFFFFF</color>
+    <color name="color_gray_light">#99C9C9C9</color>
+    <color name="color_black_light">#99000000</color>
+
+</resources>
